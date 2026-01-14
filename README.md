@@ -21,6 +21,8 @@ Proyecto creado para un taller dictado en un seminario con el objetivo de introd
 ### 📌 Estado
 ✔ Proyecto completado
 
+![AR_1](MD_Resources/AR_1.jpeg)
+
 ---
 
 ## 🇬🇧 English
@@ -43,3 +45,5 @@ This project was created for a workshop aimed at introducing emerging technologi
 
 ### 📌 Status
 ✔ Completed
+
+![AR_1](MD_Resources/AR_2.jpeg)
